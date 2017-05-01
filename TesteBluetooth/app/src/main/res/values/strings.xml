@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TesteBluetooth</string>
+    <string name="hello_word">Olá mundo</string>
+</resources>
